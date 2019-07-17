@@ -1,3 +1,4 @@
-# Interactive-Clicks
+# Android - Menus
 
-Sample android application demonstrating usage of imageviews , buttons and floating action buttons. It uses toasts to display user selection.
+Sample android project demonstrating the usage and implementation of the menus in android platform.
+
