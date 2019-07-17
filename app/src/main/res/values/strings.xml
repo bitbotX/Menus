@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Let\'s Code Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="droid_deserts">Choose any desert</string>
+    <string name="donut_desc">Donuts are glazed and sprinkled with candy.</string>
+    <string name="ice_cream_desc">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="froyo_desc">FroYo is premium self-serve frozen yogurt.</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice-cream.</string>
+    <string name="froyo_order_message">You ordered a froyo.</string>
+    <string name="m_new_project">Start new project</string>
+    <string name="m_service">Service</string>
+    <string name="m_new_service">Start new service</string>
+    <string name="m_service_tasks">Service Tasks</string>
+    <string name="m_sign_out">Sign Out</string>
+    <string name="m_info">Info</string>
+</resources>

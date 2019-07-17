@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.googlecodelabs.MainActivity">
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/ic_info"
+        android:title="@string/m_info"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/m_new_project"
+        android:title="@string/m_new_project" />
+    <item
+        android:id="@+id/menu_dts_overflow"
+        android:title="@string/m_service">
+        <menu>
+            <item
+                android:id="@+id/m_new_service"
+                android:title="@string/m_new_service"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/m_service_tasks"
+                android:title="@string/m_service_tasks"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/m_sign_out"
+        android:title="@string/m_sign_out"
+        app:showAsAction="never" />
+</menu>
